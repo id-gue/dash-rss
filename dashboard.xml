@@ -1,4 +1,4 @@
- <?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 
 <channel>
@@ -7,18 +7,13 @@
   <description>RSS feed for the DAKboard to be used on the office infoscreens.</description>
   <item>
     <title>Gnocci im Pilum!</title>
-    <link>https://diconium.com/</link>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
     <description>Wir konnten es kaum glauben. Am ersten Tag musste ich weinen!</description>
   </item>
   <item>
-    <title>Gnocci im Pilum!</title>
-    <link>https://diconium.com/</link>
-    <description>Wir konnten es kaum glauben. Am zweiten Tag musste ich weinen!</description>
-  </item>
-  <item>
-    <title>Gnocci im Pilum!</title>
-    <link>https://diconium.com/</link>
-    <description>Wir konnten es kaum glauben. Am dritten Tag musste ich weinen!</description>
+    <title>XML Tutorial</title>
+    <link>https://www.w3schools.com/xml</link>
+    <description>New XML tutorial on W3Schools</description>
   </item>
 </channel>
 
