@@ -1,0 +1,947 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Home Page</title>
+    <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2018  The New York Times Company</copyright>
+    <lastBuildDate>Tue, 08 May 2018 08:35:35 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Home Page</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Europe Edition: Iran, Italy, Cannes: Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2018/05/08/briefing/iran-italy-cannes.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/08/briefing/iran-italy-cannes.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/08/briefing/iran-italy-cannes.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/07/briefing/08ambriefing-europe-ss-slide-MG0M/08ambriefing-europe-ss-slide-MG0M-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Tom Brenner/The New York Times</media:credit>
+      <description>Here&#x2019;s what you need to know to start your day.</description>
+      <dc:creator>MIKE IVES and LOUIS LUCERO II</dc:creator>
+      <pubDate>Tue, 08 May 2018 05:12:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Accused of Abuse, Eric Schneiderman Resigns as New York Attorney General</title>
+      <link>https://www.nytimes.com/2018/05/07/nyregion/new-york-attorney-general-eric-schneiderman-abuse.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/nyregion/new-york-attorney-general-eric-schneiderman-abuse.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/nyregion/new-york-attorney-general-eric-schneiderman-abuse.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/nyregion/08Schneiderman/08Schneiderman-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Eric T. Schneiderman, the New York attorney general, had assumed a prominent role in the #MeToo movement.</media:description>
+      <media:credit>Drew Angerer/Getty Images</media:credit>
+      <description>Four women who had been romantically involved with Mr. Schneiderman accused him of physically assaulting them.</description>
+      <dc:creator>DANNY HAKIM and VIVIAN WANG</dc:creator>
+      <pubDate>Tue, 08 May 2018 06:50:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schneiderman, Eric T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women's Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Attorneys General</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Domestic Violence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New Yorker</category>
+    </item>
+    <item>
+      <title>Before His Fall, Eric Schneiderman Defended Women and Took On Trump</title>
+      <link>https://www.nytimes.com/2018/05/07/nyregion/who-is-eric-schneiderman.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/nyregion/who-is-eric-schneiderman.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/nyregion/who-is-eric-schneiderman.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/nyregion/08schneiderman_xp/08schneiderman_xp-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Attorney General Eric Schneiderman of New York in April.</media:description>
+      <media:credit>Mary Altaffer/Associated Press</media:credit>
+      <description>Here&#x2019;s a look at Mr. Schneiderman&#x2019;s career, including his work on behalf of women and his rise to prominence by challenging the Trump administration.</description>
+      <dc:creator>MATT STEVENS</dc:creator>
+      <pubDate>Tue, 08 May 2018 07:13:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schneiderman, Eric T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Attorneys General</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New Yorker</category>
+    </item>
+    <item>
+      <title>Eric Schneiderman on Women&#x2019;s Rights: In His Own Words</title>
+      <link>https://www.nytimes.com/2018/05/08/nyregion/eric-schneiderman-womens-rights-resign.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/08/nyregion/eric-schneiderman-womens-rights-resign.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/08/nyregion/eric-schneiderman-womens-rights-resign.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/09/world/09Schneiderman-metoo-1/09Schneiderman-metoo-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Attorney General Eric T. Schneiderman of New York in February. Before abruptly resigning after being accused of abuse by four former romantic partners, he had gained renown for defending women&#x2019;s rights.</media:description>
+      <media:credit>Brendan McDermid/Reuters</media:credit>
+      <description>Before four former romantic partners accused him of assault, forcing him to resign, the New York attorney general was outspoken in defense of women.</description>
+      <dc:creator>AUSTIN RAMZY</dc:creator>
+      <pubDate>Tue, 08 May 2018 08:00:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women's Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schneiderman, Eric T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Violence Against Women Act (1994)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New Yorker</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Weinstein Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weinstein, Harvey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Domestic Violence</category>
+    </item>
+    <item>
+      <title>Unswayed by Allies, Trump Is Expected to Leave Iran Deal, Diplomats Say</title>
+      <link>https://www.nytimes.com/2018/05/07/us/politics/trump-announce-withdraw-us-iran-deal.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/us/politics/trump-announce-withdraw-us-iran-deal.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/07/us/politics/trump-announce-withdraw-us-iran-deal.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/us/politics/08dc-iran-print/08dc-iran-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump has called the accord a &#x201C;disaster&#x201D; and vowed during the 2016 presidential campaign to kill it.</media:description>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <description>If the European diplomats are correct, the announcement will be the most consequential national security decision of President Trump&#x2019;s 15 months in office.</description>
+      <dc:creator>DAVID E. SANGER and STEVEN ERLANGER</dc:creator>
+      <pubDate>Tue, 08 May 2018 01:28:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+    </item>
+    <item>
+      <title>Opponents of Iran Deal Hired Investigators to Dig Up Dirt on Obama Aide</title>
+      <link>https://www.nytimes.com/2018/05/07/us/politics/iran-deal-benjamin-rhodes-black-cube.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/us/politics/iran-deal-benjamin-rhodes-black-cube.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/07/us/politics/iran-deal-benjamin-rhodes-black-cube.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/world/08dc-blackcube-print/08dc-blackcube-print-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Benjamin J. Rhodes, a top national security aide to President Barack Obama, in 2016.</media:description>
+      <media:credit>Stephen Crowley/The New York Times</media:credit>
+      <description>Evidence has surfaced that opponents of the deal engaged in a sophisticated effort to dig up dirt on Benjamin J. Rhodes and his family that continued well after the Obama administration left office.</description>
+      <dc:creator>MICHAEL D. SHEAR and RONEN BERGMAN</dc:creator>
+      <pubDate>Tue, 08 May 2018 03:52:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">BC Strategy Ltd (Black Cube)</category>
+    </item>
+    <item>
+      <title>The Met Gala Goes Catholic With Lots of Crosses and Heavenly Crowns</title>
+      <link>https://www.nytimes.com/2018/05/07/style/met-gala.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/style/met-gala.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/style/met-gala.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <description>The annual benefit for the Costume Institute of the Metropolitan Museum takes on a religious theme.</description>
+      <dc:creator>JONAH ENGEL BROMWICH and VALERIYA SAFRONOVA</dc:creator>
+      <pubDate>Tue, 08 May 2018 04:53:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Met Gala</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Metropolitan Museum of Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wintour, Anna</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rihanna</category>
+    </item>
+    <item>
+      <title>E.P.A. Emails Show an Effort to Shield Pruitt From Public Scrutiny</title>
+      <link>https://www.nytimes.com/2018/05/07/climate/epa-pruitt-emails-secrecy.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/climate/epa-pruitt-emails-secrecy.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/climate/epa-pruitt-emails-secrecy.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/climate/08cli-EPAemails-1/08cli-EPAemails-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Scott Pruitt, facing a photograph of Yosemite National Park, on Capitol Hill in April.</media:description>
+      <media:credit>Jim Lo Scalzo/EPA, via Shutterstock</media:credit>
+      <description>New files suggest the E.P.A. chief&#x2019;s close control of his public events is driven more by a desire to avoid tough questions than by security concerns.</description>
+      <dc:creator>ERIC LIPTON and LISA FRIEDMAN</dc:creator>
+      <pubDate>Mon, 07 May 2018 23:06:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Sierra Club</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pruitt, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chmielewski, Kevin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smotkin, Richard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Gina Haspel Has the Experience to Run the C.I.A., and That May Be Her Biggest Problem</title>
+      <link>https://www.nytimes.com/2018/05/07/us/politics/gina-haspel-cia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/us/politics/gina-haspel-cia.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/07/us/politics/gina-haspel-cia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/us/politics/08dc-haspel1/08dc-haspel1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Gina Haspel, President Trump&#x2019;s nominee for C.I.A. director, on Monday on Capitol Hill.</media:description>
+      <media:credit>Tom Brenner/The New York Times</media:credit>
+      <description>As she prepares for her confirmation hearing, President Trump&#x2019;s nominee to lead the spy agency faces questions about her involvement in torture and secret prisons.</description>
+      <dc:creator>PETER BAKER and MATTHEW ROSENBERG</dc:creator>
+      <pubDate>Tue, 08 May 2018 00:32:29 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interrogations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Detainees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">September 11 (2001)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Al Qaeda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amnesty International</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Senate Committee on Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brennan, John O</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clapper, James R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Feinstein, Dianne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haspel, Gina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hayden, Michael V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jackson, Ronny L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Sarah Huckabee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tenet, George J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warner, Mark R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wyden, Ron</category>
+    </item>
+    <item>
+      <title>&#x2018;Like a Mosquito in a Nudist Colony.&#x2019; How Mick Mulvaney Found Plenty to Target at Consumer Bureau</title>
+      <link>https://www.nytimes.com/2018/05/07/us/mick-mulvaney-budget-director-consumer-bureau.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/us/mick-mulvaney-budget-director-consumer-bureau.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/us/mick-mulvaney-budget-director-consumer-bureau.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/04/28/us/politics/28dc-mulvaney1/28dc-mulvaney1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mick Mulvaney, the White House budget director and acting head of the Consumer Financial Protection Bureau, arriving to testify last month before the Senate Banking Committee.</media:description>
+      <media:credit>Tom Brenner/The New York Times</media:credit>
+      <description>Boxed out of budget negotiations, Mick Mulvaney&#x2019;s second job running the Consumer Financial Protection Bureau represents a second chance for him to leave his mark.</description>
+      <dc:creator>GLENN THRUSH and ALAN RAPPEPORT</dc:creator>
+      <pubDate>Mon, 07 May 2018 22:29:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Consumer Financial Protection Bureau</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Office of Management and Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warren, Elizabeth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mulvaney, Mick</category>
+    </item>
+    <item>
+      <title>Trump Weighs In on West Virginia Senate Race in Sign of Republican Anxiety</title>
+      <link>https://www.nytimes.com/2018/05/07/us/politics/don-blankenship-trump-west-virginia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/us/politics/don-blankenship-trump-west-virginia.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/us/politics/don-blankenship-trump-west-virginia.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/us/08BLANKENSHIP-2-print/08BLANKENSHIP-slide-PD82-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Representative Evan Jenkins, left, and Attorney General Patrick Morrisey, right, with President Trump at a round-table discussion on tax policy in West Virginia last month.</media:description>
+      <media:credit>Evan Vucci/Associated Press</media:credit>
+      <description>The president tweeted that Don Blankenship&#x2019;s opponents have a better chance of beating the incumbent Democratic senator, Joe Manchin.</description>
+      <dc:creator>JONATHAN MARTIN</dc:creator>
+      <pubDate>Tue, 08 May 2018 00:29:43 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2018)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blankenship, Don L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manchin, Joe III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Virginia</category>
+    </item>
+    <item>
+      <title>The Candidate Who&#x2019;s Too Trump-Like Even for Trump</title>
+      <link>https://www.nytimes.com/video/us/politics/100000005887119/trump-blankenship-west-virginia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/us/politics/100000005887119/trump-blankenship-west-virginia.html</guid>
+      <description>Republicans in Washington, including President Trump, are encouraging West Virginians not to vote for Don Blankenship, a popular Senate candidate with a complicated past.</description>
+      <dc:creator/>
+      <pubDate>Mon, 07 May 2018 23:47:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">West Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Midterm Elections (2018)</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Blankenship, Don L</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Elections, Senate</category>
+    </item>
+    <item>
+      <title>Melania Trump Rolls Out &#x2018;Be Best,&#x2019; a Children&#x2019;s Agenda With a Focus on Social Media</title>
+      <link>https://www.nytimes.com/2018/05/07/us/politics/melania-trump-children.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/us/politics/melania-trump-children.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/us/politics/melania-trump-children.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/us/08dc-melania-sub/08dc-melania-sub-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Melania Trump, the first lady, launched her &#x201C;Be Best&#x201D; initiative on Monday in the Rose Garden.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>Mrs. Trump unveiled a program on Monday that she said would tackle opioid abuse, social media pressures and mental health issues among young people.</description>
+      <dc:creator>KATIE ROGERS</dc:creator>
+      <pubDate>Mon, 07 May 2018 23:31:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, Laura</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clifford, Stephanie (1979- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Conway, Kellyanne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Michelle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Barron (2006- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Melania</category>
+    </item>
+    <item>
+      <title>fact check of the day: Trump Wrongly Links Departures of Two F.B.I. Officials to Russia Investigation</title>
+      <link>https://www.nytimes.com/2018/05/07/us/politics/trump-tweet-fbi-lisa-page-james-baker.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/us/politics/trump-tweet-fbi-lisa-page-james-baker.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/07/us/politics/trump-tweet-fbi-lisa-page-james-baker.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/us/politics/08dc-fastfact/08dc-fastfact-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The F.B.I. headquarters on Pennsylvania Avenue in Washington.</media:description>
+      <media:credit>Al Drago/The New York Times</media:credit>
+      <description>The president suggested that investigators were &#x201C;getting caught.&#x201D; But the F.B.I. officials left voluntarily and were not involved with the Russia inquiry when they resigned.</description>
+      <dc:creator>LINDA QIU</dc:creator>
+      <pubDate>Mon, 07 May 2018 16:37:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baker, James A (Attorney)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Page, Lisa (1979- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Strzok, Peter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Prosecutors (Independent Counsel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Roger Stone Says He Had Little Contact With Manafort Deputy</title>
+      <link>https://www.nytimes.com/2018/05/07/us/politics/roger-stone-rick-gates-special-counsel.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/us/politics/roger-stone-rick-gates-special-counsel.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/us/politics/roger-stone-rick-gates-special-counsel.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/us/08stone_dc/08stone_dc-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Roger Stone after answering questions from the House Intelligence Committee&#x2019;s Russia inquiry in September 2017.</media:description>
+      <media:credit>Jim Lo Scalzo/European Pressphoto Agency</media:credit>
+      <description>Mr. Stone, a veteran political operative, made the comments in an interview in response to a CNBC report that the special counsel was scrutinizing the ties between the men.</description>
+      <dc:creator>MAGGIE HABERMAN</dc:creator>
+      <pubDate>Tue, 08 May 2018 00:43:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Special Prosecutors (Independent Counsel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gates, Richard W III (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stone, Roger J Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Him, Too</title>
+      <link>https://www.nytimes.com/2018/05/07/opinion/eric-schneiderman-metoo.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/opinion/eric-schneiderman-metoo.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/07/opinion/eric-schneiderman-metoo.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/opinion/09wed2web/09wed2web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Eric Schneiderman, the New York attorney general, resigned after being accused of assault.</media:description>
+      <media:credit>Sasha Maslov for The New York Times</media:credit>
+      <description>Eric Schneiderman stands accused of the very sorts of abuse he claimed to fight as state attorney general. Now it&#x2019;s up to legislators to pick a true champion.</description>
+      <dc:creator>THE EDITORIAL BOARD</dc:creator>
+      <pubDate>Tue, 08 May 2018 03:55:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schneiderman, Eric T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+    </item>
+    <item>
+      <title>Boris Johnson: Don&#x2019;t Scuttle the Iran Nuclear Deal</title>
+      <link>https://www.nytimes.com/2018/05/06/opinion/boris-johnson-trump-iran-nuclear-deal.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/06/opinion/boris-johnson-trump-iran-nuclear-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/06/opinion/boris-johnson-trump-iran-nuclear-deal.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/07/opinion/sunday/07Johnson/07Johnson-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A member of the Iranian Army passes a mural honoring the 1979 revolution in Tehran last year.</media:description>
+      <media:credit>Agence France-Press/Getty Images</media:credit>
+      <description>The agreement to restrain Iran&#x2019;s nuclear weapons program has problems. But the alternative of no deal at all is far worse.</description>
+      <dc:creator>BORIS JOHNSON</dc:creator>
+      <pubDate>Mon, 07 May 2018 01:28:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">International Atomic Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>Op-Ed Columnist: Why Did a Creepy Israeli Intel Firm Spy on Obama Alums?</title>
+      <link>https://www.nytimes.com/2018/05/07/opinion/black-cube-ben-rhodes-colin-kahl.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/opinion/black-cube-ben-rhodes-colin-kahl.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/opinion/black-cube-ben-rhodes-colin-kahl.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/opinion/08goldbergWeb/08goldbergWeb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Colin Kahl said Trump officials were uniquely obsessed with him and Ben Rhodes.</media:description>
+      <media:credit>Chip Somodevilla/Getty Images</media:credit>
+      <description>We need a congressional investigation into the Black Cube scandal.</description>
+      <dc:creator>MICHELLE GOLDBERG</dc:creator>
+      <pubDate>Tue, 08 May 2018 08:23:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Detectives (Private)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rhodes, Benjamin J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weinstein, Harvey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">BC Strategy Ltd (Black Cube)</category>
+    </item>
+    <item>
+      <title>What Will New York Do About Its Uber Problem?</title>
+      <link>https://www.nytimes.com/2018/05/07/opinion/new-york-uber-problem.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/opinion/new-york-uber-problem.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/opinion/new-york-uber-problem.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/opinion/08tue1/08tue1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Chiara Ghigliazza</media:credit>
+      <description>Ride-hailing apps are convenient for city residents, but they&#x2019;ve had devastating effects on the livelihood of taxi drivers and on the streets.</description>
+      <dc:creator>THE EDITORIAL BOARD</dc:creator>
+      <pubDate>Mon, 07 May 2018 23:10:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Taxicabs and Taxicab Drivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Lyft Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Blasio, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cuomo, Andrew M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+    </item>
+    <item>
+      <title>The Heartbreak of Kanye West</title>
+      <link>https://www.nytimes.com/2018/05/07/opinion/dream-hampton-kanye-west.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/opinion/dream-hampton-kanye-west.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/opinion/dream-hampton-kanye-west.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/opinion/08Hampton1/08Hampton1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Kanye West.</media:description>
+      <media:credit>Zacharie Scheurer/Associated Press</media:credit>
+      <description>Laughing at Donald Glover&#x2019;s sendup of Kanye hasn&#x2019;t made watching him unravel any less infuriating or devastating.</description>
+      <dc:creator>DREAM HAMPTON</dc:creator>
+      <pubDate>Mon, 07 May 2018 20:35:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">West, Kanye</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">TMZ.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Glover, Donald</category>
+    </item>
+    <item>
+      <title>Op-Ed Columnist: The Man Who Changed the World, Twice</title>
+      <link>https://www.nytimes.com/2018/05/07/opinion/stewart-brand-hippie-silicon.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/opinion/stewart-brand-hippie-silicon.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/07/opinion/stewart-brand-hippie-silicon.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/opinion/08brooksWeb/08brooksWeb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Stewart Brand</media:description>
+      <media:credit>Jake Stangel</media:credit>
+      <description>A sage at the intersection of Silicon Valley and hippiedom can offer cultural guidance.</description>
+      <dc:creator>DAVID BROOKS</dc:creator>
+      <pubDate>Tue, 08 May 2018 00:56:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brand, Stewart</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Homebrew Computer Club</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hippies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computers and the Internet</category>
+    </item>
+    <item>
+      <title>When 2 + 2 Might Equal 5</title>
+      <link>https://www.nytimes.com/2018/05/07/opinion/google-right-to-be-forgotten-first-amendment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/opinion/google-right-to-be-forgotten-first-amendment.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/opinion/google-right-to-be-forgotten-first-amendment.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/03/opinion/03abrams/03abrams-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Since a 2014 European court established the &#x201C;right to be forgotten,&#x201D; Google has received over 2.4 million requests for deletion of information.</media:description>
+      <media:credit>Patricia De Melo Moreira/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The European Union&#x2019;s &#x201C;right to be forgotten&#x201D; rule amounts to government limits on the publication of truthful speech.</description>
+      <dc:creator>FLOYD ABRAMS</dc:creator>
+      <pubDate>Mon, 07 May 2018 19:00:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">First Amendment (US Constitution)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Court of Justice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+    </item>
+    <item>
+      <title>Editorial Observer: Sean Hannity&#x2019;s Guide to Real Estate</title>
+      <link>https://www.nytimes.com/2018/05/06/opinion/sean-hannity-real-estate.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/06/opinion/sean-hannity-real-estate.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/06/opinion/sean-hannity-real-estate.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/05/opinion/00hannityWeb/00hannityWeb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Sean Hannity, the popular Fox News host, is a property owner and landlord on a considerable scale.</media:description>
+      <media:credit>Carolyn Kaster/Associated Press</media:credit>
+      <description>As the Fox News star and hedge funders have thrived, many Americans find themselves unable to afford homes or pay the rent.</description>
+      <dc:creator>BILL SAPORITO</dc:creator>
+      <pubDate>Sun, 06 May 2018 23:53:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hannity, Sean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Foreclosures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
+    </item>
+    <item>
+      <title>Contributing Op-Ed Writer: The Mother&#x2019;s Day Trap</title>
+      <link>https://www.nytimes.com/2018/05/07/opinion/the-mothers-day-trap.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/opinion/the-mothers-day-trap.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/07/opinion/the-mothers-day-trap.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/07/opinion/07renklWeb/07renklWeb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Martin Parr/Magnum Photos</media:credit>
+      <description>God help the woman who feels too acutely that motherhood defines her.</description>
+      <dc:creator>MARGARET RENKL</dc:creator>
+      <pubDate>Mon, 07 May 2018 09:45:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mother's Day</category>
+    </item>
+    <item>
+      <title>&#x2018;I Did You a Great Favor When I Fired This Guy&#x2019;</title>
+      <link>https://www.nytimes.com/2018/05/06/opinion/trump-comey-firing.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/06/opinion/trump-comey-firing.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/06/opinion/trump-comey-firing.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/07/opinion/07mon1/07mon1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Niv Bavarsky</media:credit>
+      <description>One year on, Donald Trump&#x2019;s firing of James Comey remains his most revealing move.</description>
+      <dc:creator>THE EDITORIAL BOARD</dc:creator>
+      <pubDate>Mon, 07 May 2018 14:57:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Special Prosecutors (Independent Counsel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Comey, James B</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Treating Workers Fairly at Rent the Runway</title>
+      <link>https://www.nytimes.com/2018/05/06/opinion/workers-benefits-inequality-rent-the-runway.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/06/opinion/workers-benefits-inequality-rent-the-runway.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/06/opinion/workers-benefits-inequality-rent-the-runway.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/07/opinion/07hyman/07hyman-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Ellen Surrey</media:credit>
+      <description>Companies across America have long given salaried workers one benefits package and hourly workers another. It&#x2019;s time for this practice to end.</description>
+      <dc:creator>JENNIFER Y. HYMAN</dc:creator>
+      <pubDate>Sun, 06 May 2018 23:00:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paid Time Off</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Family Leaves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Rent the Runway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Workplace Environment</category>
+    </item>
+    <item>
+      <title>The Stone: &#x2018;Transparency&#x2019; Is the Mother of Fake News</title>
+      <link>https://www.nytimes.com/2018/05/07/opinion/transparency-fake-news.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/opinion/transparency-fake-news.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/opinion/transparency-fake-news.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/07/opinion/07stoneWeb/07stoneWeb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Mike Clarke/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>We are now dealing with the problem child of the techo-utopian worship of data.</description>
+      <dc:creator>STANLEY FISH</dc:creator>
+      <pubDate>Mon, 07 May 2018 09:45:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Philosophy</category>
+    </item>
+    <item>
+      <title>Trump Administration Threatens Jail and Separating Children From Parents for Those Who Illegally Cross Southwest Border</title>
+      <link>https://www.nytimes.com/2018/05/07/us/politics/homeland-security-prosecute-undocumented-immigrants.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/us/politics/homeland-security-prosecute-undocumented-immigrants.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/us/politics/homeland-security-prosecute-undocumented-immigrants.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/us/politics/08dc-border-print/08dc-border-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Border Patrol agents apprehended immigrants who illegally crossed the border from Mexico into the United States last month near McAllen, Tex. The Department of Homeland Security will refer more cases of illegal crossings for criminal prosecution.</media:description>
+      <media:credit>Loren Elliott/Reuters</media:credit>
+      <description>The crackdown follows a rise in families and children who have illegally entered the United States over the last year.</description>
+      <dc:creator>MIRIAM JORDAN and RON NIXON</dc:creator>
+      <pubDate>Tue, 08 May 2018 00:29:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Customs and Border Protection (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sessions, Jefferson B III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southwestern States (US)</category>
+    </item>
+    <item>
+      <title>We Collected and Published ISIS&#x2019; Internal Documents. What Questions Do You Have?</title>
+      <link>https://www.nytimes.com/2018/05/07/reader-center/isis-files-documents-iraq.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/reader-center/isis-files-documents-iraq.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/reader-center/isis-files-documents-iraq.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/19/world/middleeast/04insider-documents/isis-documents-photos-1522801161654-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Rukmini Callimachi and her team recovered more than 15,000 pages of Islamic State documents from Iraq. They became the basis for &#x201C;The ISIS Files,&#x201D; published in April.</media:description>
+      <media:credit>Tony Cenicola/The New York Times</media:credit>
+      <description>Our journalists and top newsroom lawyer will answer questions about our recent investigation into internal Islamic State files taken from Iraq.</description>
+      <dc:creator>LARA TAKENAGA</dc:creator>
+      <pubDate>Mon, 07 May 2018 20:29:12 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Callimachi, Rukmini Maria (1973- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Slackman, Michael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+    </item>
+    <item>
+      <title>Air France Dispute Threatens to Escalate Macron&#x2019;s Battle With Labor</title>
+      <link>https://www.nytimes.com/2018/05/07/business/air-france-macron-labor.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/business/air-france-macron-labor.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/07/business/air-france-macron-labor.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/business/08franceecon-1/08franceecon-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Air France-KLM planes at Paris&#x2019;s Charles de Gaulle Airport. A labor standoff has cost Air France an estimated 300 million euros, or $360 million, in lost revenue, and its shares plunged 13 percent on Monday.</media:description>
+      <media:credit>Stephane De Sakutin/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>A call to strike by unions representing Air France employees highlights the widening divide between workers and the French state as President Emmanuel Macron pushes business-friendly changes.</description>
+      <dc:creator>LIZ ALDERMAN</dc:creator>
+      <pubDate>Mon, 07 May 2018 20:49:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">AIR France-KLM</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+    </item>
+    <item>
+      <title>He Paid for His Mentos. Then an Officer Pulled a Gun on Him.</title>
+      <link>https://www.nytimes.com/2018/05/07/us/police-mentos-gun-video.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/us/police-mentos-gun-video.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/07/us/police-mentos-gun-video.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/07/us/08xp-mentos/08xp-mentos-moth.png" medium="image" height="151" width="151"/>
+      <media:description>Jose Arreola, center, had just paid for a $1.19 roll of Mentos in a Southern California gas station when an off-duty police officer, right, pulled out a gun and accused of him of stealing them.</media:description>
+      <media:credit>Orange County Register, via YouTube</media:credit>
+      <description>An off-duty officer in Southern California thought Jose Arreola was stealing a $1.19 roll of mints and pulled out his handgun.</description>
+      <dc:creator>MATTHEW HAAG</dc:creator>
+      <pubDate>Mon, 07 May 2018 19:26:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Buena Park (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Buena Park Police Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jose Arreola</category>
+    </item>
+    <item>
+      <title>Seattle&#x2019;s JuneBaby Named Best New Restaurant at Beard Awards</title>
+      <link>https://www.nytimes.com/2018/05/07/dining/james-beard-awards-junebaby.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/dining/james-beard-awards-junebaby.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/dining/james-beard-awards-junebaby.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/07/dining/07Beard1-sub/07Beard1-sub-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Edouardo Jordan, the founding chef of JuneBaby, is the first African-American to win the Beard award for Best New Restaurant.</media:description>
+      <media:credit>Chona Kasinger for The New York Times</media:credit>
+      <description>Its chef, the first African-American to win that prize, and Gabrielle Hamilton of Prune lead a list that is long on women and minorities.</description>
+      <dc:creator>JULIA MOSKIN</dc:creator>
+      <pubDate>Tue, 08 May 2018 02:41:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Beard, James, Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">JuneBaby (Seattle, Wash, Restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Prune (Manhattan, NY, Restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Zahav (Philadelphia, Pa, Restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Highlands Bar and Grill (Birmingham, Ala)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Fat Rice (Chicago, Ill, Restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Compere Lapin (New Orleans, La, Restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Atelier Crenn (San Francisco, Calif, Restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Lilia (Brooklyn, NY, Restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Salare (Seattle, Wash, Restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamilton, Gabrielle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Solomonov, Michael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jordan, Edouardo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>The Pleasure and Pain of Being California, the World&#x2019;s 5th-Largest Economy</title>
+      <link>https://www.nytimes.com/2018/05/07/us/california-economy-growth.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/us/california-economy-growth.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/us/california-economy-growth.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/sports/08cal-econ-1/08cal-econ-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A neighborhood in Oakland, Calif. As California&#x2019;s economy has soared, so have the state&#x2019;s housing prices.</media:description>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <description>Years of robust growth have brought California bragging rights and rising homelessness, soaring salaries and endless traffic, flooded state coffers and eye-popping house prices.</description>
+      <dc:creator>THOMAS FULLER</dc:creator>
+      <pubDate>Mon, 07 May 2018 09:30:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+    </item>
+    <item>
+      <title>Bitcoin Sees Wall Street Warm to Trading Virtual Currency</title>
+      <link>https://www.nytimes.com/2018/05/07/technology/bitcoin-new-york-stock-exchange.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/technology/bitcoin-new-york-stock-exchange.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/07/technology/bitcoin-new-york-stock-exchange.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/business/08BITCOIN-1/08BITCOIN-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Traders at the New York Stock Exchange last week. The exchange&#x2019;s parent company is said to be working on an online platform to trade Bitcoin.</media:description>
+      <media:credit>Justin Lane/EPA, via Shutterstock</media:credit>
+      <description>Following Goldman Sachs&#x2019;s moves to begin trading Bitcoin, the New York Stock Exchange&#x2019;s parent company is said to be in talks to open a virtual currency exchange.</description>
+      <dc:creator>NATHANIEL POPPER</dc:creator>
+      <pubDate>Tue, 08 May 2018 01:15:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bitcoin (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Futures and Options Trading</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Goldman Sachs Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Intercontinental Exchange Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Stock Exchange</category>
+    </item>
+    <item>
+      <title>As Lava Flows in Hawaii, Agency Warns, &#x2018;This Is Not the Time for Sightseeing&#x2019;</title>
+      <link>https://www.nytimes.com/2018/05/07/us/hawaii-volcano-kilauea.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/us/hawaii-volcano-kilauea.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/07/us/hawaii-volcano-kilauea.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/us/08volcano-02/08volcano-02-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Residents faced traffic jams as they tried to check on their homes in Pahoa on Sunday.</media:description>
+      <media:credit>Mario Tama/Getty Images</media:credit>
+      <description>As the Kilauea volcano&#x2019;s eruptions turned nearby areas into a natural disaster, with dozens of structures destroyed, residents, officials and tourists alike wrestled with its dual nature.</description>
+      <dc:creator>AMY HARMON and AUSTIN RAMZY</dc:creator>
+      <pubDate>Tue, 08 May 2018 01:40:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volcanoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kilauea Volcano (Hawaii)</category>
+    </item>
+    <item>
+      <title>Tomahawk Chops and Indian Mascots: In Europe, Teams Don&#x2019;t See a Problem</title>
+      <link>https://www.nytimes.com/2018/05/07/sports/native-american-mascots-europe.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/sports/native-american-mascots-europe.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/07/sports/native-american-mascots-europe.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/03/sports/00indians-web1/00indians-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Buffalo Ben, the official team mascot for the Belgian soccer team K.A.A. Gent. His sidekick is a female version named Buffalo Mel.</media:description>
+      <media:credit>Jimmy Bolcina/Photonews, via Getty Images</media:credit>
+      <description>European teams and fans, detached from the fraught history that Native American imagery carries in U.S. sports, have their own ideas about what is socially acceptable.</description>
+      <dc:creator>ANDREW KEH</dc:creator>
+      <pubDate>Mon, 07 May 2018 05:00:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mascots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Exeter (Rugby Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Logos</category>
+    </item>
+    <item>
+      <title>On the Mattress for &#x2018;Sleep,&#x2019; an 8-Hour Lullaby</title>
+      <link>https://www.nytimes.com/2018/05/07/arts/music/max-richter-sleep-new-york.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/arts/music/max-richter-sleep-new-york.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/arts/music/max-richter-sleep-new-york.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/arts/08SLEEP-MUSIC6/08SLEEP-MUSIC6-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Groups of people laid out on branded beds for an all-night performance of Max Richter&#x2019;s &#x201C;Sleep&#x201D; in Manhattan.</media:description>
+      <media:credit>Vincent Tullo for The New York Times</media:credit>
+      <description>We were there for a performance of Max Richter&#x2019;s all-night lullaby, scientifically engineered for relaxation.</description>
+      <dc:creator>JOSHUA BARONE</dc:creator>
+      <pubDate>Mon, 07 May 2018 17:35:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Richter, Max</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Sleep (Musical Work)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">American Contemporary Music Ensemble</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davidson, Grace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Spring Studios</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Beautyrest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">TriBeCa (Manhattan, NY)</category>
+    </item>
+    <item>
+      <title>Beethoven&#x2019;s 200-Year-Old &#x2018;Fidelio&#x2019; Enters Today&#x2019;s Prisons</title>
+      <link>https://www.nytimes.com/2018/05/04/arts/music/beethoven-opera-fidelio.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/04/arts/music/beethoven-opera-fidelio.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/04/arts/music/beethoven-opera-fidelio.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/05/arts/05fidelio-jp1/merlin_137629749_a2deda9d-354c-457c-854a-5341568e7880-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>At right, Kelly Griffin as Lee and, on video, members of the Kuji Men&#x2019;s Chorus at the Marion Correctional Institution in Ohio in a scene from Heartbeat Opera&#x2019;s modern-dress &#x201C;Fidelio.&#x201D;</media:description>
+      <media:credit>Russ Rowland</media:credit>
+      <description>Heartbeat Opera is presenting a new version that updates its setting, employs a largely nonwhite cast and features Midwestern prison choirs.</description>
+      <dc:creator>RYAN EBRIGHT</dc:creator>
+      <pubDate>Fri, 04 May 2018 19:48:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Heartbeat Opera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Beethoven, Ludwig van</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Heard, Ethan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schlosberg, Daniel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Fidelio (Opera)</category>
+    </item>
+    <item>
+      <title>Books of The Times: A Mother Keeps Wartime Secrets in Michael Ondaatje&#x2019;s New Novel</title>
+      <link>https://www.nytimes.com/2018/05/07/books/review-warlight-michael-ondaatje.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/books/review-warlight-michael-ondaatje.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/books/review-warlight-michael-ondaatje.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/books/08bookondaatje1/08bookondaatje1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Sonny Figueroa/The New York Times</media:credit>
+      <description>In &#x201C;Warlight,&#x201D; a man and his eccentric friends look after two teenagers in London after the children&#x2019;s parents leave home for mysterious reasons.</description>
+      <dc:creator>DWIGHT GARNER</dc:creator>
+      <pubDate>Mon, 07 May 2018 17:16:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Warlight (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ondaatje, Michael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+    </item>
+    <item>
+      <title>How to Maintain Sibling Relationships</title>
+      <link>https://www.nytimes.com/2018/05/08/smarter-living/how-to-maintain-sibling-relationships.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/08/smarter-living/how-to-maintain-sibling-relationships.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/08/smarter-living/how-to-maintain-sibling-relationships.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/us/08sl-siblings/08sl-siblings-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Getty Images</media:credit>
+      <description>The quality of sibling relationships is one of the most important predictors of mental health in old age.</description>
+      <dc:creator>ANNA GOLDFARB</dc:creator>
+      <pubDate>Tue, 08 May 2018 06:00:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Friendship</category>
+    </item>
+    <item>
+      <title>Feeling Burned Out? Here Are 3 Things That Can Help</title>
+      <link>https://www.nytimes.com/2018/05/06/smarter-living/how-to-help-burnout-stress.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/06/smarter-living/how-to-help-burnout-stress.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/06/smarter-living/how-to-help-burnout-stress.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/23/smarter-living/Sl-newsletter-header/Sl-newsletter-header-moth-v3.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit/>
+      <description>Is your mojo a little off? Try these solutions.</description>
+      <dc:creator>TIM HERRERA</dc:creator>
+      <pubDate>Sun, 06 May 2018 18:00:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+    </item>
+    <item>
+      <title>Editors&#x2019; Choice: 8 New Books We Recommend This Week</title>
+      <link>https://www.nytimes.com/2018/05/03/books/review/8-new-books-we-recommend-this-week.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/03/books/review/8-new-books-we-recommend-this-week.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/03/books/review/8-new-books-we-recommend-this-week.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/06/books/review/06ed-covers/06ed-covers-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit/>
+      <description>Suggested reading from critics and editors at The New York Times.</description>
+      <dc:creator/>
+      <pubDate>Fri, 04 May 2018 20:31:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+    </item>
+    <item>
+      <title>Valee, Kanye West&#x2019;s New Signee, Is a Rapper Who Just Might Build You a Koi Pond</title>
+      <link>https://www.nytimes.com/2018/05/07/arts/music/valee-kanye-west.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/arts/music/valee-kanye-west.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/arts/music/valee-kanye-west.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/arts/08valee1/08valee1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Chicago rapper Valee isn&#x2019;t concerned with social media and extracurricular drama: &#x201C;I would just rather be busy waiting on the next beat, so I can say something better than I just said.&#x201D;</media:description>
+      <media:credit>George Etheredge for The New York Times</media:credit>
+      <description>A low-key addition to Mr. West&#x2019;s G.O.O.D. Music, this 29-year-old modern-day Renaissance man isn&#x2019;t your average hip-hop artist.</description>
+      <dc:creator>JOE COSCARELLI</dc:creator>
+      <pubDate>Mon, 07 May 2018 17:44:29 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Valee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">West, Kanye</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Def Jam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">G.O.O.D. Music</category>
+    </item>
+    <item>
+      <title>&#x2018;Mean Girls&#x2019;: What&#x2019;s New in Girl World and What&#x2019;s Out</title>
+      <link>https://www.nytimes.com/2018/05/07/theater/mean-girls.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/07/theater/mean-girls.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/07/theater/mean-girls.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/arts/08meangirls-1/merlin_135700857_e11105e4-f752-40f2-a7aa-a08261c70522-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Erika Henningsen as Cady, second from left, with the Plastics, played by Ashley Park, Taylor Louderman and Kate Rockwell. They&#x2019;re shiny, fake and hard.</media:description>
+      <media:credit>Sara Krulwich/The New York Times</media:credit>
+      <description>Some things have changed since Tina Fey wrote the beloved movie, now a Broadway musical. But on Wednesdays, the Plastics still wear pink.</description>
+      <dc:creator>CARLA CORREA</dc:creator>
+      <pubDate>Mon, 07 May 2018 20:45:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mean Girls (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mean Girls (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lohan, Lindsay</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fey, Tina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+    </item>
+    <item>
+      <title>Lacrosse Casts Its Net Farther From the Coast, and Pulls In New Recruits</title>
+      <link>https://www.nytimes.com/2018/05/04/sports/lacrosse-ivy-league-growth.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/04/sports/lacrosse-ivy-league-growth.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/04/sports/lacrosse-ivy-league-growth.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/06/sports/06drape1/06drape1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Members of the Lehman Campus boys lacrosse team huddled Friday during a P.S.A.L. game in the Bronx.</media:description>
+      <media:credit>Harrison Hill for The New York Times</media:credit>
+      <description>A sport once linked to suburbs and private schools up and down the Eastern Seaboard finds converts further afield, and is looking in cities for more.</description>
+      <dc:creator>JOE DRAPE</dc:creator>
+      <pubDate>Sat, 05 May 2018 21:31:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lacrosse</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Ivy League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rabil, Paul (1985- )</category>
+    </item>
+    <item>
+      <title>Nonfiction: Eavesdropping on Beauvoir, Sartre and Their Circle of Friends</title>
+      <link>https://www.nytimes.com/2018/05/04/books/review/agnes-poirier-left-bank.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/04/books/review/agnes-poirier-left-bank.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/04/books/review/agnes-poirier-left-bank.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/06/books/review/06Elkin2/06Elkin2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jean-Paul Sartre (left) and Simone de Beauvoir (right) with Boris and Michelle Vian at the Cafe Procope, 1952.</media:description>
+      <media:credit>Studio Ethel</media:credit>
+      <description>&#x201C;Left Bank: Art, Passion, and the Rebirth of Paris, 1940-50&#x201D; is Agn&#xE8;s Poirier&#x2019;s impressionistic history of the rebirth of postwar French culture.</description>
+      <dc:creator>LAUREN ELKIN</dc:creator>
+      <pubDate>Fri, 04 May 2018 09:00:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Left Bank: Art, Passion, and the Rebirth of Paris, 1940-50 (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Poirier, Agnes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Beauvoir, Simone de</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sartre, Jean-Paul</category>
+    </item>
+    <item>
+      <title>Critic&#x2019;s Notebook: Trifonov and Andsnes: Different Generations, Same Curiosity</title>
+      <link>https://www.nytimes.com/2018/05/04/arts/music/trifonov-andsnes-carnegie-new-york-philharmonic.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/04/arts/music/trifonov-andsnes-carnegie-new-york-philharmonic.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/04/arts/music/trifonov-andsnes-carnegie-new-york-philharmonic.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/05/arts/05PIANIST-COMBO/05PIANIST-COMBO-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Leif Ove Andsnes, left, and Daniil Trifonov both had major presences in New York this season.</media:description>
+      <media:credit>Michelle V. Agins/The New York Times; Jennifer Taylor</media:credit>
+      <description>The pianists Daniil Trifonov and Leif Ove Andsnes both assumed the best of their audiences in major New York series this season.</description>
+      <dc:creator>ANTHONY TOMMASINI</dc:creator>
+      <pubDate>Fri, 04 May 2018 19:45:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Carnegie Hall</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Philharmonic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Kremerata Baltica</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andsnes, Leif Ove</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chopin, Frederic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trifonov, Daniil</category>
+    </item>
+    <item>
+      <title>Will Tourism Ruin the Rainbow Mountain of Peru?</title>
+      <link>https://www.nytimes.com/2018/05/03/world/americas/peru-rainbow-mountain.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/03/world/americas/peru-rainbow-mountain.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/03/world/americas/peru-rainbow-mountain.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/04/world/04peru-print/03peru-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Rainbow Mountain in southeastern Peru has become a must-see attraction. But environmentalists fear damage to the remote landscape.</media:description>
+      <media:credit>Martin Mejia/Associated Press</media:credit>
+      <description>The remarkable landscape, discovered only in the past five years, has become a must-see attraction. But the tourism boom may be environmentally harmful.</description>
+      <dc:creator>ILIANA MAGRA and ANDREA ZARATE</dc:creator>
+      <pubDate>Thu, 03 May 2018 22:55:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mountains</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Andes Mountains</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eco-Tourism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-multimedia</category>
+    </item>
+    <item>
+      <title>Take a Number: A Census of Gorillas and Chimpanzees Finds More Than Expected</title>
+      <link>https://www.nytimes.com/2018/05/04/science/gorillas-chimpanzees-populations-africas.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/04/science/gorillas-chimpanzees-populations-africas.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/05/04/science/gorillas-chimpanzees-populations-africas.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/08/climate/01SCI-NUMBER1/01SCI-NUMBER1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A gorilla mother with her twins in Dzanga-Sangha, Central African Republic, part of a project to habituate gorillas to the presence of humans. A recent study counted more than 360,000 gorillas, far greater than the lowest previous estimate, 150,000.</media:description>
+      <media:credit>Terence Fuh Neba, WWF</media:credit>
+      <description>There are more than 360,000 gorillas and 128,000 chimpanzees in Africa, roughly twice as many as previously estimated.</description>
+      <dc:creator>NICHOLAS BAKALAR</dc:creator>
+      <pubDate>Fri, 04 May 2018 17:22:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeys and Apes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Science Advances (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Wildlife Conservation Society</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+    </item>
+    <item>
+      <title>Tech Tip: Overcome With Emoji </title>
+      <link>https://www.nytimes.com/2018/05/03/technology/personaltech/overcome-with-emoji.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/05/03/technology/personaltech/overcome-with-emoji.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/05/03/technology/personaltech/overcome-with-emoji.html?partner=rss&amp;emc=rss"/>
+      <description>With thousands of potential pictographs to add to text messages and other communications, some people may be looking for a way to narrow down the choices.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Thu, 03 May 2018 13:00:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emojis and Emoticons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Text Messaging</category>
+    </item>
+    <item>
+      <title>Trilobites: This Fungus Borrowed From Ancient Bacteria to Defy Gravity</title>
+      <link>https://www.nytimes.com/2018/04/27/science/fungus-gravity-bacteria.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/04/27/science/fungus-gravity-bacteria.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/04/27/science/fungus-gravity-bacteria.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/05/01/science/01OBS-TB-FUNGUS/27TB-FUNGUS-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The fruiting bodies of Phycomyces blakesleeanus, a fungus that, like humans and plants, can detect gravity.</media:description>
+      <media:credit>Tu Anh Nguyen</media:credit>
+      <description>Scientists say a fungus developed its well-known sensing abilities following an ancient genetic transfer between its ancestor and bacteria it encountered.</description>
+      <dc:creator>JOANNA KLEIN</dc:creator>
+      <pubDate>Fri, 27 Apr 2018 16:29:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fungi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bacteria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gravitation and Gravity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">PLoS Biology (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jedd, Gregory</category>
+    </item>
+  </channel>
+</rss>
