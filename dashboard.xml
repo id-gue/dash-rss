@@ -1,0 +1,21 @@
+ <?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Diconium Dashboard</title>
+  <link>https://diconium.com/</link>
+  <item>
+    <title>Gnocci im Pilum!</title>
+    <description>Wir konnten es kaum glauben. Am ersten Tag musste ich weinen!</description>
+  </item>
+  <item>
+    <title>Gnocci im Pilum!</title>
+    <description>Wir konnten es kaum glauben. Am zweiten Tag musste ich weinen!</description>
+  </item>
+  <item>
+    <title>Gnocci im Pilum!</title>
+    <description>Wir konnten es kaum glauben. Am dritten Tag musste ich weinen!</description>
+  </item>
+</channel>
+
+</rss> 
