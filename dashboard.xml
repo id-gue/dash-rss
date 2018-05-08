@@ -6,13 +6,23 @@
   <description>RSS feed for the DAKboard to be used on the office infoscreens.</description>
   <item>
       <title>Gnocci im Pilum!</title>
-      <link>https://www.xul.fr/en-xml-rss.html</link>
+      <link>https://diconium.com/</link>
       <description>Wir konnten es kaum glauben. Am Montag musste ich weinen!</description>
   </item>
   <item>
-      <title>News of tomorrows</title>
-      <link>https://www.xul.fr/en-xml-rdf.html</link>
-      <description>And now, all about RDF</description>
-    </item>
+      <title>Summer is comming!</title>
+      <link>https://diconium.com/</link>
+      <description>Remember to enter your travel wishes for the summer party!</description>
+  </item>
+  <item>
+      <title>Your news should be here?</title>
+      <link>https://diconium.com/</link>
+      <description>Tell us what's going on in your team/head/whatever!</description>
+  </item>
+  <item>
+      <title>Mindspace event: Company Run</title>
+      <link>https://diconium.com/</link>
+      <description>Signup in the app deadline: May 15th. (Common - it's just 5.5 km!)</description>
+  </item>
 </channel>
 </rss> 
